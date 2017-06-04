@@ -1,2 +1,4 @@
 # Kakumunity
-WIP Alternative to Boomeo
+A project to improve CS:GO players
+
+- Created Format
